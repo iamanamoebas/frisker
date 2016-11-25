@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <color name="HEX_FF000000">#00FF0000</color>
+   <color name="HEX_FFFFFFFF">#FFFFFFFF</color>
+   <color name="HEX_AD0000F3">#F3AD0000</color>
+   <color name="HEX_434343FF">#FF434343</color>
+   <color name="HEX_D8D8D8FF">#FFD8D8D8</color>
+   <color name="HEX_FF0000AF">#AFFF0000</color>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<za.koding.frisker.elements.LandingActivity.DSAudio xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"  android:background="@color/HEX_D8D8D8FF" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/audio">
+   <za.koding.frisker.elements.LandingActivity.DSKast android:background="@color/HEX_434343FF" android:focusableInTouchMode="true" android:focusable="true" android:layout_marginTop="0dp" android:layout_marginStart="0dp" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/kast"/>
+</za.koding.frisker.elements.LandingActivity.DSAudio>

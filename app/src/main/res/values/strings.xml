@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <string formatted="false" name="view1">View 1</string>
+   <string formatted="false" name="httpsd3hz1qd00d5r9acloudfrontnet">https://d3hz1qd00d5r9a.cloudfront.net</string>
+   <string formatted="false" name="play">play</string>
+   <string formatted="false" name="audio">audio</string>
+   <string formatted="false" name="view2">View 2</string>
+   <string formatted="false" name="httpplayaudiogearmobi">http://play.audiogear.mobi</string>
+   <string formatted="false" name="app_name">Frisker</string>
+   <string formatted="false" name="frisk">frisk</string>
+   <string formatted="false" name="view3">View 3</string>
+   <string formatted="false" name="httpkastaudiogearmobi">http://kast.audiogear.mobi</string>
+</resources>
